@@ -33,6 +33,7 @@ Attention : Il y a deux types de possibilité pour le client d'avoir des offres.
 6. Reductions anciennes (idem -> si je me souviens bien j'ai fait cette table lorsqu'il y aurait trop d'entrées dans la première)
 
 (Les tables pas nécessaire pour cette application, mais qui sont déjà présente pour une app destinée aux magasins)
+
 7. Manager (mail, password, id_magasin)
 
 8. Equipier (mail, password, id_magasin)
