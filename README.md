@@ -81,9 +81,13 @@ Il est bien entendu qu'une version Browser devra être également designer / dé
 Figma : https://www.figma.com/design/lh3X3u6862VF5RC3xj3KmH/Login-Page-UI-(Community)?node-id=0-1&t=yvehYEKdeWKmbmZv-1
 
 **CLI**
+
 npx create-react-app mon-projet
+
 npm start
+
 npm install react-router-dom (pour le SPA)
+
 
 
 
