@@ -34,7 +34,9 @@ Attention : Il y a deux types de possibilité pour le client d'avoir des offres.
 
 (Les tables pas nécessaire pour cette application, mais qui sont déjà présente pour une app destinée aux magasins)
 7. Manager (mail, password, id_magasin)
+
 8. Equipier (mail, password, id_magasin)
+
 9. Visite (heure de visite, premiere visite (true / false : pour savoir si le client est un nouvel utilisateur)
 
 
