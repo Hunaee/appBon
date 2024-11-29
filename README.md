@@ -20,6 +20,7 @@ Attention : Il y a deux types de possibilité pour le client d'avoir des offres.
 6. Lié sa carte de fidélité avec d'autres utilisateurs (pour partager sa carte de fidélité avec ses amis / sa famille)
 7. Page profil également, permettant de voir ses information, changer le mot de passe,... mais aussi voir les bons d'achats expirés ou encore les bons d'achats utilisé. (J'aimerais également rajouté un graphique comme vous l'aviez demandé, je me demande si ce n'est pas intelligent de le rajouter dans cette page profil)
 8. Authentification (classique, Google / Apple (?))
+9. Gestion de Token 
 
 
 **Une liste complète des données que devra gérer l’API (= le back-end)**
