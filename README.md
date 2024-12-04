@@ -89,6 +89,12 @@ npm start
 npm install react-router-dom (pour le SPA)
 
 
+Docker et OSRM
+Extraction de données : docker run -t -v /c/xampp/htdocs/TFE:/data osrm/osrm-backend osrm-extract -p /opt/foot.lua /data/belgium-latest.osm.pbf
+Générer des données de contraction : docker run -t -v /c/xampp/htdocs/TFE:/data osrm/osrm-backend osrm-contract /data/belgium-latest.osrm
+
+
+
 
 
 
