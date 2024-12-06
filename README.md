@@ -95,6 +95,11 @@ Générer des données de contraction : docker run -t -v /c/xampp/htdocs/TFE:/da
 
 
 
+Calcul de performance pour les distances:
+https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula
+
+
+
 
 
 
