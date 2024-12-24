@@ -52,11 +52,13 @@ Moyenne, de part la db, l'API à rajouté, l'Authentification (Google / Apple)
 
 React pour la réutilisabilité des composants, ce qui me permettra de facilité la réutilisation de mes composants comme mes boutons / bons. Mais également l'amélioration de la performance grace au DOM virtuel ce qui est particulièrement pour les applications qui nécessitent un affichage dynamique (comme des bons d'achat qui changent souvent ou des listes filtrées).
 
-Permet de voir directement les changements sans avoir à recharger l'application (hot reloading)
+Permet de voir directement les changements sans avoir à recharger l'application (hot reloading).
+
+Ionic : Permet de développer et de mettre en ligne son contenu sous différentes plateformes
 
 ==API==
 
-node.js (facilité pour développer coté serveur / client) ou Express.js (dans l'idéal pour moi ce qui me permettra de pouvoir mettre ces compétences en avant)
+Express.js 
 Permet de gérer un grand nombre de connexions simultanées sans ralentir les performances du serveur.
 Idéal également pour les mises à jour en tant réel.
 
